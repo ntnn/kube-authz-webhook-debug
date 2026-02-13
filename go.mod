@@ -1,6 +1,6 @@
 module github.com/ntnn/kube-webhook
 
-go 1.25.1
+go 1.24
 
 require (
 	github.com/k0kubun/pp/v3 v3.5.1
