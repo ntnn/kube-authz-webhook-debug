@@ -1,10 +1,10 @@
 module github.com/ntnn/kube-webhook
 
-go 1.24
+go 1.25.0
 
 require (
 	github.com/k0kubun/pp/v3 v3.5.1
-	k8s.io/api v0.35.1
+	k8s.io/api v0.35.2
 )
 
 require (
@@ -22,7 +22,7 @@ require (
 	golang.org/x/sys v0.38.0 // indirect
 	golang.org/x/text v0.32.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
-	k8s.io/apimachinery v0.35.1 // indirect
+	k8s.io/apimachinery v0.35.2 // indirect
 	k8s.io/klog/v2 v2.130.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20250910181357-589584f1c912 // indirect
 	k8s.io/utils v0.0.0-20251002143259-bc988d571ff4 // indirect
