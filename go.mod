@@ -3,7 +3,7 @@ module github.com/ntnn/kube-webhook
 go 1.26.0
 
 require (
-	github.com/k0kubun/pp/v3 v3.5.2
+	github.com/k0kubun/pp/v3 v3.5.3
 	k8s.io/api v0.37.1
 )
 
@@ -19,7 +19,7 @@ require (
 	go.yaml.in/yaml/v2 v2.4.4 // indirect
 	golang.org/x/net v0.57.0 // indirect
 	golang.org/x/sys v0.47.0 // indirect
-	golang.org/x/text v0.40.0 // indirect
+	golang.org/x/text v0.42.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	k8s.io/apimachinery v0.37.1 // indirect
 	k8s.io/klog/v2 v2.140.0 // indirect
